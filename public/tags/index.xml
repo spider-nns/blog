@@ -2,10 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Spider</title>
-    <link>https://guangchang.tech/tags/</link>
+    <link>http://1.116.1.92:80/tags/</link>
     <description>Recent content in Tags on Spider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://guangchang.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 01 Aug 2021 17:59:44 +0800</lastBuildDate><atom:link href="http://1.116.1.92:80/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>middle-aware</title>
+      <link>http://1.116.1.92:80/tags/middle-aware/</link>
+      <pubDate>Sun, 01 Aug 2021 17:59:44 +0800</pubDate>
+      
+      <guid>http://1.116.1.92:80/tags/middle-aware/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

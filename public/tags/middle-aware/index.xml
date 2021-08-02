@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spider</title>
-    <link>http://1.116.1.92:80/</link>
-    <description>Recent content on Spider</description>
+    <title>middle-aware on Spider</title>
+    <link>http://1.116.1.92:80/tags/middle-aware/</link>
+    <description>Recent content in middle-aware on Spider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 01 Aug 2021 17:59:44 +0800</lastBuildDate><atom:link href="http://1.116.1.92:80/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 17:59:44 +0800</lastBuildDate><atom:link href="http://1.116.1.92:80/tags/middle-aware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kafka</title>
       <link>http://1.116.1.92:80/posts/kafka/</link>
@@ -15,16 +15,6 @@
       
       <guid>http://1.116.1.92:80/posts/kafka/</guid>
       <description>深入理解 Kafka</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://1.116.1.92:80/about/</link>
-      <pubDate>Sun, 01 Aug 2021 17:59:31 +0800</pubDate>
-      
-      <guid>http://1.116.1.92:80/about/</guid>
-      <description>你好，可以称呼我 spider
-联系我 [spider.nns@gmail.com]</description>
     </item>
     
   </channel>

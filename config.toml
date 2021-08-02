@@ -1,4 +1,4 @@
-baseURL = "https://guangchang.tech"
+baseURL = "http://1.116.1.92:80"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Spider"
